@@ -1,4 +1,4 @@
-# vue-test-task
+# Rick and Morty test task
 
 ## Project setup
 ```
